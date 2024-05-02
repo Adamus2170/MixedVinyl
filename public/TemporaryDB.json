@@ -1,0 +1,20 @@
+[
+    {
+        "title": "obiwan",
+        "trackCount": 14,
+        "genre": "Republic",
+        "createdAt": "2021-10-02"
+    },
+    {
+        "title": "dooku",
+        "trackCount": 8,
+        "genre": "Separatist",
+        "createdAt": "2022-08-17"
+    },
+    {
+        "title": "jaba",
+        "trackCount": 10,
+        "genre": "Huts",
+        "createdAt": "2020-07-21"
+    }
+]
